@@ -1,0 +1,16 @@
+.roadmap{
+    width: 100vw;
+
+    max-width: 1440px;
+    padding: 4rem 3rem;
+    margin: 0 auto;
+    overflow: hidden;
+    position: relative;
+    margin-top: 3rem;
+    .title{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 1.75rem;
+    }
+}
